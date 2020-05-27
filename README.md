@@ -16,3 +16,4 @@ There is little to see at the moment.
 
 ---
 
+Sections are placeholders. Each will link to a different data project.
