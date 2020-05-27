@@ -11,3 +11,6 @@ There is little to see at the moment.
 - Moving in and out of alert levels
 - Genes and strains
 - Arrival from overseas
+
+---
+
