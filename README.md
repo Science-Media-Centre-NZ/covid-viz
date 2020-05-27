@@ -1,8 +1,6 @@
-<link rel="stylesheet" href="assets/main.css">
-
 ## Welcome to GitHub Pages
 
-TEST
+TEST.
 
 You can use the [editor on GitHub](https://github.com/Science-Media-Centre-NZ/covid-viz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
