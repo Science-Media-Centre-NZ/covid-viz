@@ -2,5 +2,10 @@ theme: jekyll-theme-slate
 title: Covid-19 data
 description: Aoteaora New Zealand, 2020
 
-page-col: "#FFFFFF"
-footer-col: "#F5F5F5"
+#page-col: "#FFFFFF"
+#footer-col: "#F5F5F5"
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#ffffff'
