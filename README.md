@@ -2,8 +2,12 @@
 
 This page will outline the purpose of the website, provide a high-level overview of Covid-19 and link to each visualisation.
 
-The the moment there is very little here.
+Rhere is very little here for now.
 
+- Covid cases
 - [Clusters](clusters/)
-- Cases
+- Gender, place and ethnicity
+- Timeline
 - Moving in and out of alert levels
+- Genes and strains
+- Arrival from overseas
