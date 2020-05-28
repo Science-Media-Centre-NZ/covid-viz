@@ -14,8 +14,6 @@ There is little to see at the moment.
 - Natural environment
 - Economy
 
-This is a new bit that *we added*.
-
 ---
 
 Sections are placeholders. Each will link to a different data project.
